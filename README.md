@@ -1,1 +1,1 @@
-React Calculator. My 1st React project.
+ReactJS Calculator. My 1st React project.
